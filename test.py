@@ -1,6 +1,5 @@
 from lib import find
 
-
 def test_find():
    #  общие элементы есть
     list1 = [1, 2, 3, 4, 6]
