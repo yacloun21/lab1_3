@@ -14,7 +14,7 @@ def test_find():
     if result == 3:
         print(f"получено {result}")
         print("Тест 2 пройден: два списка ")
-    # один список
+    # один с писок
     result = find(list1)
     if result == 5:
         print(f"получено {result}")
